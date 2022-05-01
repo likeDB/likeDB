@@ -2,6 +2,13 @@
 
 LikeDB is an open source JavaScript class that brings database features like CRUD operations,and more capabilities.
 
+## How to use
+To use LikeDB, just simply include the JS file into your page and start using LikeDB:
+
+```html
+<script src="likeDB.min.js"></script>
+```
+
 ## Instantiating a database
 
 ```js
